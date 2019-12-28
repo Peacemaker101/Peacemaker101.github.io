@@ -1,0 +1,16 @@
+---
+layout: post
+title: Dummy-Post_#1
+subtitle: Untertitel
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [test]
+blogtype: 'finland'
+---
+
+Hier gibt's dann bissel Blabla über das was ich in Finnland so erlebe.
+
+### In der Zwischenzeit ist hier ein süßes Hundebild:
+
+<img src="https://bornfreeshelter.org/wp-content/uploads/2015/10/Born-Free-04-15-2017-36.jpg" width="500" height="300" />
+
