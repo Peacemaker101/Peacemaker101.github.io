@@ -19,5 +19,7 @@ Ich sollte mich erstmal komplett auf die Klausuren konzentrieren, da die mich sc
 
 Wie es der Zufall so will haben sie es dieses Jahr wirklich früher bekannt gegeben! Ich wurde angenommen!
 Ich habe die Ehre mein 5. Semester zwischen dem 01. September und 20. Dezember 2020 in Oulu, Finnland zu verbringen!
+
 Zugegeben, Oulu war nicht meine Erst- sondern Zweitwahl, jedoch bin ich überglücklich dorthin gehen zu dürfen. Oulu liegt sehr weit im Norden von Finnland, daher hat man dort sehr gute Chancen regelmäßig Polarlichter zu beobachten. Wie cool ist das denn!! Außerdem ist die Stadt nicht weit von Lappland entfernt!!
+
 Am liebsten würde ich mich jetzt schon um Alles kümmern, jedoch muss ich erstmal die nächsten 3 Wochen Klausuren überstehen.
