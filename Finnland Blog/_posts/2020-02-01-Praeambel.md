@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Die ersten Vorbereitungen
-subtitle: Langsam geht es los
+title: Präambel
+subtitle: Vorfreude
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [Finnland, Post]
